@@ -351,7 +351,7 @@ print("\n")
 print("\n***********************************************************************************\n")
 print(" welcome our super hero please start to guess each letter")
 print("\n***********************************************************************************\n")
-print(rand_word)
+
 end_game=False
 lives=7
 while not end_game :
